@@ -1,4 +1,4 @@
-name: deploy SaMaaW
+name: deploy AFcdAsi
 
 on:
   push:
