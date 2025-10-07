@@ -1,4 +1,4 @@
-name: deploy AFcdAsi
+name: deploy SrAsizD
 
 on:
   push:
