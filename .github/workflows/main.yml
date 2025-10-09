@@ -1,4 +1,4 @@
-name: deploy Pisxxal
+name: deploy maven
 
 on:
   push:
